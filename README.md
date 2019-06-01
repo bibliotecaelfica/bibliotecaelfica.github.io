@@ -1,7 +1,7 @@
 # Biblioteca Élfica 2 - Democratizando o RPG.
 Um backup da antiga Biblioteca Élfica que saiu do ar.
 
-Acesse por [bibliotecaelfica.github.io](bibliotecaelfica.github.io)
+Acesse por [https://bibliotecaelfica.github.io](https://bibliotecaelfica.github.io)
 
 **AJUDE-NOS A CONTINUAR O PROJETO ENVIANDO PDFS QUE NÃO ESTÃO NA LISTA (É POSSÍVEL VER QUAIS NÃO TEMOS POR VER OS QUE NÃO POSSUEM UM LINK) OU ADICIONANDO NOVOS.**
 
